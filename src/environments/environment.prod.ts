@@ -2,7 +2,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: "https://solutionchllng.herokuapp.com/api/"
+  apiUrl: "https://mustafacicek.herokuapp.com/api/"
 };
 // Import the functions you need from the SDKs you need
 
